@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToMariaDBConverter", "ExcelToMariaDBConverter.csproj", "{EF8D3FC0-CA7F-419B-8C12-ECCE6EF51FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8D3FC0-CA7F-419B-8C12-ECCE6EF51FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8D3FC0-CA7F-419B-8C12-ECCE6EF51FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8D3FC0-CA7F-419B-8C12-ECCE6EF51FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8D3FC0-CA7F-419B-8C12-ECCE6EF51FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A0BF67-36F9-49FB-8CD1-A195288AF0E3}
+	EndGlobalSection
+EndGlobal
